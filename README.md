@@ -41,4 +41,7 @@ This project demonstrates the use of **Google Cloud Platform (GCP)** to build, t
 1. Set up GCP and enable BigQuery API.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/google-cloud-ml-project.git
+   git clone https://github.com/QED137/BigqueryML_google_cloud.git
+   ```
+MIT Lisence. 
+   
