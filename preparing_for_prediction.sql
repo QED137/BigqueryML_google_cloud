@@ -10,3 +10,5 @@ FROM
   `bigquery-public-data.google_analytics_sample.ga_sessions_*`
 WHERE
   _TABLE_SUFFIX BETWEEN '20170701' AND '20170801';
+
+-- save the data as july fodler or folder as you want 
